@@ -33,7 +33,7 @@ In practice, it is usually better to give  normal response to the principal requ
 We anticipate a distinction between the {% include link s=site.data.glossary.client %} (typically a web-browser, possibly with a plugin) and a remote {% include link s=site.data.glossary.wallet %} which will allow persistence of user-data between clients and devices.
 
 ### Producer tools:
-Different {% include link s=site.data.glossary.host c="Hosts" %}s will have different needs. 
+Different {% include link s=site.data.glossary.host c="Hosts" %} will have different needs. 
 Typically there will be a server plugin, designated servlet, or specialized CDN, 
 that will inspect requests for receipts, validate the receipts, and forward them to their respective Notaries for disbursement. 
 
