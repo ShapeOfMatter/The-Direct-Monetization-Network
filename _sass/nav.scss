@@ -47,12 +47,6 @@ nav {
       display: block;
       padding-left: 2px;
       -webkit-font-smoothing: antialiased;
-      span {
-        overflow: hidden;
-        text-overflow: ellipsis;
-        max-width: 100%;
-        display: block;
-      }
     }
 
     &.selected a {
@@ -62,6 +56,12 @@ nav {
       position: relative;
       padding-left: 8px;
       border-left: 5px solid #27cb6e;
+      span {
+        overflow: hidden;
+        text-overflow: ellipsis;
+        max-width: 100%;
+        display: block;
+      }
 
       &:after {
         position: absolute;
