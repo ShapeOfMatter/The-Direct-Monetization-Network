@@ -47,6 +47,10 @@ nav {
       display: block;
       padding-left: 2px;
       -webkit-font-smoothing: antialiased;
+      span {
+        overflow: hidden;
+        text-overflow: ellipsis;
+      }
     }
 
     &.selected a {
@@ -58,17 +62,17 @@ nav {
       border-left: 5px solid #27cb6e;
 
       &:after {
-        z-index: -1;
-        display: block;
         position: absolute;
         right: -14px;
         top: 6px;
         transform: rotate(45deg);
         vertical-align: middle;
         content: "";
-        background: $light-color;
-        width: 28px;
-        height: 28px;
+        border-style: solid;
+        border-width: 14px;
+        border-color: $light-color $light-color #0000 #0000;
+        width: 0px;
+        height: 0px;
       }
     }
   }
