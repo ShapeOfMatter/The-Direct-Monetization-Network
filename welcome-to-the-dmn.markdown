@@ -37,7 +37,7 @@ We will develop open source tools for use with the 402-Receipts protocol, and of
 {: .timeline}
 - _February 2019:_ Reach out to peers and industry for feedback.  
   Clarify cryptographic protocols.  
-  Improve website cosmetics.
+  Improve website cosmetics. ✓
 - _March 2019:_ Version 0 of the 402-Receipt standard.
 - _Summer 2019:_ Implement wallets and hosts as SaaS  
   Publish usable php and java-script snippets.  
