@@ -4,7 +4,7 @@ date: 2018-10-16 16:34:00 Z
 permalink: "/consumer.html"
 description: The Direct Monetization Network will be a full-stack suite of tools for
   creators and their audiences, implementing a 402-based internet payment scheme.
-link_to_standard: "https://www.402receipts.info/"
+link_to_standard: https://www.402receipts.info/
 ---
 
 <div class="splash">
