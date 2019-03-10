@@ -67,7 +67,7 @@ You can email us with questions or suggestions at <dmn@directmonetization.networ
 
 ## Social Media:
 Twitter: [@direct_the](https://twitter.com/direct_the)  
-Mastodon: [@DMN@mastodon.technology](https://mastodon.technology/@DMN)  
+Mastodon: <a rel="me" href="https://mastodon.technology/@DMN">@DMN@mastodon.technology</a>  
 Reddit: [/u/DiMonNet](https://www.reddit.com/user/DiMonNet)
 
 </div>
