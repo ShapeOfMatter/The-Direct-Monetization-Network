@@ -48,11 +48,12 @@ A website can even act as its own "network", seamlessly approximating a traditio
 ## Road-map:
 
 {: .timeline}
-- _February 2019:_ Reach out to peers and industry for feedback.  
+- _February 2019:_ Improve website cosmetics. ✓
+- _Spring 2019:_ Reach out to peers and industry for feedback. (ongoing)  
   Clarify cryptographic protocols.  
-  Improve website cosmetics. ✓
-- _March 2019:_ Version 0 of the 402-Receipt standard.
-- _Summer 2019:_ Implement wallets and hosts as SaaS  
+  Outline functionality of JavaScript Clients.
+- _Summer 2019:_ Version 0 of the 402-Receipt standard.  
+  Implement wallets and hosts as SaaS  
   Publish usable php and java-script snippets.  
   Find peers interested in working on parallel or complementary implementations.
 - _Winter 2019/2020:_ Version 1 of the 402-Receipt standard.  
