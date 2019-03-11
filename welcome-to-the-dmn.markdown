@@ -18,7 +18,6 @@ The Direct Monetization Network (DMN) will be a full-stack suite of tools for cr
 We will develop open source tools for use with the 402-Receipts protocol, and offer support for and SaaS versions of those tools. 
 
 **The proposed [402-Receipts standard]({{ page.link_to_standard }}) will be an open standard.**
-It will move to its own website as soon as the name is settled.
 We are seeking feedback from the public and prospective users.
 
 [Read the standard]({{ page.link_to_standard }}){:.call-to-action}
