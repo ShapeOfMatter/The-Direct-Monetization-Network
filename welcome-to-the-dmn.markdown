@@ -59,12 +59,12 @@ A website can even act as its own "network", seamlessly approximating a traditio
 ## How to help:
 Check out the proposed [402 Receipts Standard]({{ page.link_to_standard }}).
 There are a variety of items there that still need to be worked out.
-You can email us with questions or suggestions at <dmn@directmonetization.network>.
-
+You can email us with questions or suggestions at <dmn@directmonetization.network>.  
+You can learn about our business plan [here]({{ "/investors.html" | absolute_url }}) if you would like to be involved financially. 
 
 ## Social Media:
-Twitter: [@direct_the](https://twitter.com/direct_the)
-Mastodon: <a rel="me" href="https://mastodon.technology/@DMN">@DMN@mastodon.technology</a>
-Reddit: [/u/DiMonNet](https://www.reddit.com/user/DiMonNet)
+Twitter: [@direct_the](https://twitter.com/direct_the)  
+Mastodon: <a rel="me" href="https://mastodon.technology/@DMN">@DMN@mastodon.technology</a>  
+Reddit: [/u/DiMonNet](https://www.reddit.com/user/DiMonNet)  
 
 </div>
