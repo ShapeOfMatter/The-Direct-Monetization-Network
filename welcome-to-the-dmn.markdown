@@ -15,7 +15,7 @@ link_to_standard: https://www.402receipts.info/
 
 The Direct Monetization Network (DMN) will be a full-stack suite of tools for creators and their audiences, implementing a 402-based internet payment scheme.
 
-We will develop open source tools for use with the 402-Receipts protocol, and offer support for and SaaS versions of those tools. 
+We will develop open source tools for use with the 402-Receipts protocol, and offer support for and SaaS versions of those tools.
 
 **The proposed [402-Receipts standard]({{ page.link_to_standard }}) will be an open standard.**
 We are seeking feedback from the public and prospective users.
@@ -42,20 +42,18 @@ Non-members might be blocked, encouraged to join, or shown ads depending on your
 **Here's what it looks like to the internet:** Anyone can host their own wallet, which is the only part of the system with full visibility to its users' actions.
 Anyone can host their own receipt handler.
 Wallets and receipt handlers can interact with multiple networks, so an individual network has limited leverage over its members.
-A website can even act as its own "network", seamlessly approximating a traditional paywall within the 402-Receipts system. 
+A website can even act as its own "network", seamlessly approximating a traditional paywall within the 402-Receipts system.
 
 ## Road-map:
 
 {: .timeline}
-- _February 2019:_ Improve website cosmetics. ✓
-- _Spring 2019:_ Reach out to peers and industry for feedback. (ongoing)  
-  Clarify cryptographic protocols.  
+- _Spring 2019:_ Reach out to peers and industry for feedback. (ongoing)
+  Clarify cryptographic protocols. ✓ (Some updates are pending, but the heart is [here](https://github.com/ShapeOfMatter/RSA-Blind-Signature).)
   Outline functionality of JavaScript Clients.
-- _Summer 2019:_ Version 0 of the 402-Receipt standard.  
-  Implement wallets and hosts as SaaS  
-  Publish usable php and java-script snippets.  
+- _Summer 2019:_ Seed funding & matching-funds investments.
+  Version 0 of the 402-Receipt standard.
   Find peers interested in working on parallel or complementary implementations.
-- _Winter 2019/2020:_ Version 1 of the 402-Receipt standard.  
+- _Winter 2019/2020:_ Version 1 of the 402-Receipt standard.
   Full-stack suite of modular, open-source tools usable as SaaS and self-hosted components.
 
 ## How to help:
@@ -65,8 +63,8 @@ You can email us with questions or suggestions at <dmn@directmonetization.networ
 
 
 ## Social Media:
-Twitter: [@direct_the](https://twitter.com/direct_the)  
-Mastodon: <a rel="me" href="https://mastodon.technology/@DMN">@DMN@mastodon.technology</a>  
+Twitter: [@direct_the](https://twitter.com/direct_the)
+Mastodon: <a rel="me" href="https://mastodon.technology/@DMN">@DMN@mastodon.technology</a>
 Reddit: [/u/DiMonNet](https://www.reddit.com/user/DiMonNet)
 
 </div>
