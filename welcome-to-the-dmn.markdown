@@ -47,14 +47,14 @@ A website can even act as its own "network", seamlessly approximating a traditio
 ## Road-map:
 
 {: .timeline}
-- _Spring 2019:_ Reach out to peers and industry for feedback. (ongoing)
-  Clarify cryptographic protocols. ✓ (Some updates are pending, but the heart is [here](https://github.com/ShapeOfMatter/RSA-Blind-Signature).)
-  Outline functionality of JavaScript Clients.
-- _Summer 2019:_ Seed funding & matching-funds investments.
-  Version 0 of the 402-Receipt standard.
-  Find peers interested in working on parallel or complementary implementations.
-- _Winter 2019/2020:_ Version 1 of the 402-Receipt standard.
-  Full-stack suite of modular, open-source tools usable as SaaS and self-hosted components.
+- _Spring 2019:_ Reach out to peers and industry for feedback. (ongoing)  
+  Clarify cryptographic protocols. ✓ (Some updates are pending, but the heart is [here](https://github.com/ShapeOfMatter/RSA-Blind-Signature).)  
+  Outline functionality of JavaScript Clients.  
+- _Summer 2019:_ Seed funding & matching-funds investments.  
+  Version 0 of the 402-Receipt standard.  
+  Find peers interested in working on parallel or complementary implementations.  
+- _Winter 2019/2020:_ Version 1 of the 402-Receipt standard.  
+  Full-stack suite of modular, open-source tools usable as SaaS and self-hosted components.  
 
 ## How to help:
 Check out the proposed [402 Receipts Standard]({{ page.link_to_standard }}).
