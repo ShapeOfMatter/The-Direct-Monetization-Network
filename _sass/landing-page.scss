@@ -29,6 +29,15 @@
     padding-top: 200px;
     z-index: -1;
     padding-bottom: 40px;
+
+    blockquote {
+      margin-left: auto;
+      margin-right: auto;
+      border: none;
+      padding: 30px 30px;
+      font-style: italic;
+      text-align: center;
+    }
   }
 
   .call-to-action {

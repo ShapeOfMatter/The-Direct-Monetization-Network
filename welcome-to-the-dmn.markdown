@@ -10,8 +10,11 @@ link_to_standard: https://www.402receipts.info/
 <div class="splash">
 <div class="splash-inner" markdown="1">
 
-### Get access. Support creators. Drop ads.
+> People should be able to make money by publishing their work online.  
+> Ad revenue is meager, and pay-walls are unmarketable.  
+> We're looking for a new model.  
 
+### Get access. Support creators. Drop ads.
 
 The Direct Monetization Network (DMN) will be a full-stack suite of tools for creators and their audiences, implementing a 402-based internet payment scheme.
 
