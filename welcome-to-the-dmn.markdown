@@ -25,6 +25,8 @@ We are seeking feedback from the public and prospective users.
 
 [Read the standard]({{ page.link_to_standard }}){:.call-to-action}
 
+[Take our consumer survey!]({{ "/survey-01.html" | absolute_url }}){:.call-to-action}
+
 </div>
 </div>
 
