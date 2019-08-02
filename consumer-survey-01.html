@@ -9,7 +9,11 @@ layout: none
 <html>
     <head>
         <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
-        <title>How do you (want to) use the internet?</title>
+        <title>{{ page.title }}</title>
+        <meta property="og:title" content="{{ page.title }}" />
+        <meta property="og:type" content="website" />
+        <meta property="og:url" content="{{ page.url | absolute_url }}" />
+        <meta property="og:image" content="https://images.typeform.com/images/cEPdExCduhyF/image/default" />
         <style type="text/css">
             html{ margin: 0; height: 100%; overflow: hidden; }
             iframe{ position: absolute; left:0; right:0; bottom:0; top:0; border:0; }
