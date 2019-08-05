@@ -3,10 +3,21 @@
   <head>
     <title>{{ page.title }}</title>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
     <meta name="description" content="{{page.description}}">
-    <link rel="stylesheet" href="/assets/main.css?{{ site.cachebuster }}">
+    {% if page.extra_headers %}
+      {{ page.extra_headers }}
+    {% else %}
+      <link rel="stylesheet" href="/assets/main.css?{{ site.cachebuster }}">
+    {% endif %} 
     <link rel="shortcut icon" type="image/x-icon" href="/ico/favicon.png">
+    <meta property="og:title" content="{{ page.title }}" />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="{{ page.url | absolute_url }}" />
+    <meta property="og:image" content="{{ "/assets/icon wash fb.png" | absolute_url }}" />
+    <meta property="og:description" content="{{ page.description }}" />
+    <meta property="og:site_name" content="The Direct Monetization Network" />
+    <meta property="fb:app_id" content="{{ site.url }}" />
   </head>
   <body>
     {{content}}

@@ -3,31 +3,14 @@ title: How do you (want to) use the internet?
 date: 2019-08-01 00:00:00 Z
 permalink: "/survey-01.html"
 description: Survey for internet media consumers. (We're all consumers on the internet!)
-layout: none
+layout: default
+extra_headers: |
+    <style type="text/css">
+      html{ margin: 0; height: 100%; overflow: hidden; }
+      iframe{ position: absolute; left:0; right:0; bottom:0; top:0; border:0; }
+    </style>  
 ---
 
-<!DOCTYPE html>
-<html>
-    <head>
-        <meta charset="UTF-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
-        <title>{{ page.title }}</title>
-        <link rel="shortcut icon" type="image/x-icon" href="/ico/favicon.png">
-        <meta property="og:title" content="{{ page.title }}" />
-        <meta property="og:type" content="website" />
-        <meta property="og:url" content="{{ page.url | absolute_url }}" />
-        <meta property="og:image" content="{{ "/assets/icon wash fb.png" | absolute_url }}" />
-        <meta property="og:description" content="{{ page.description }}" />
-        <meta property="op:site_name" content="The Direct Monetization Network" />
-        <meta property="fb:app_id" content="{{ site.url }}" />
-        <style type="text/css">
-            html{ margin: 0; height: 100%; overflow: hidden; }
-            iframe{ position: absolute; left:0; right:0; bottom:0; top:0; border:0; }
-        </style>
-    </head>
-    <body>
-        <iframe id="typeform-full" width="100%" height="100%" frameborder="0" src="https://makobates.typeform.com/to/osh8Ag"></iframe>
-        <script type="text/javascript" src="https://embed.typeform.com/embed.js"></script>
-    </body>
-</html>
+<iframe id="typeform-full" width="100%" height="100%" frameborder="0" src="https://makobates.typeform.com/to/osh8Ag"></iframe>
+<script type="text/javascript" src="https://embed.typeform.com/embed.js"></script>
 
