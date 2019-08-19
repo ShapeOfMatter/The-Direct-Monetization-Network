@@ -15,7 +15,7 @@ during which time various people posted links to the survey intermittently on di
 On August 12th, we posted the survey to the open-comments section of a popular blog; 
 most of the responses followed from that post, as can be seen above.
 Respondents after August 12th seem to represent a different demographic, 
-so where appropriate below we'll distinguish between responses before and after that time.
+so below we'll distinguish between responses before and after that time.
 
 People took the survey voluntarily, because they happened to see a link in one of the handful of places it was posted
 and because they wanted to contribute. Because the participants were not selected randomly, it is not appropriate to
@@ -24,7 +24,7 @@ _suggests_ the prevalence of certain sentiments.
 
 ## Do people care if the internet is lucrative?
 
-The last questions we asked people asked them how important it was that different parties get paid for their work. In
+The last questions we presented asked people how important it was that different parties get paid for their work. In
 general people are concerned with the livelihood of journalists, writers, etc, but not with the livelihood of
 publishers and aggregators.  
 ![Screenshot: Is it important for consumers to pay authors, artists, and creators for their work?]({{ "/assets/survey_01/question_15.png" | absolute_url }} "question 15")  
@@ -46,5 +46,34 @@ meaningful results.
 
 The first question we asked people was which common models they preferred.  
 ![Screenshot: Which of the following would you prefer?]({{ "/assets/survey_01/question_01.png" | absolute_url }} "question 01")  
-The most popular option was à la carte purchases.  
+The most popular option was à la carte purchases, which is not a model supported by many platforms today.  
 ![Summary of question 1.]({{ "/assets/survey_01/results_01.png" | absolute_url }} "results for question 1")  
+
+## How well do people like the subscription model?
+
+Monthly subscriptions seem less popular among consumers than among publishers. 
+Several of our questions related to subscriptions people actually have.  
+![Screenshot: With how many different websites do you have a paid subscription in order to access that site's content?]({{ "/assets/survey_01/question_02.png" | absolute_url }} "question 02")  
+![Screenshot: About how much do you spend on such subscriptions each month?]({{ "/assets/survey_01/question_03.png" | absolute_url }} "question 03")  
+![Screenshot: For which of the following kinds of media do you have a subscription?]({{ "/assets/survey_01/question_04.png" | absolute_url }} "question 04")  
+In practice, most people have a few different subscriptions, mostly for music or television, for which they pay about \$20 a month.  
+![Summary of question 02.]({{ "/assets/survey_01/results_02.png" | absolute_url }} "results for question 02")  
+![Summary of question 03.]({{ "/assets/survey_01/results_03.png" | absolute_url }} "results for question 03")  
+![Summary of question 04.]({{ "/assets/survey_01/results_04.png" | absolute_url }} "results for question 04")  
+We asked what motivated people to sign up for subscriptions, and what they didn't like about subscriptions.  
+![Screenshot: Think of recent times you've been prompted by a website to sign up for a paid subscription. Which of the following reasons to sign up felt strongest to you?]({{ "/assets/survey_01/question_05.png" | absolute_url }} "question 05")  
+![Screenshot: Think of recent times you've been prompted by a website to sign up for a paid subscription. Which of the following reasons NOT to sign up felt strongest to you?]({{ "/assets/survey_01/question_06.png" | absolute_url }} "question 06")  
+Ads don't seem to weigh heavily of peoples decisions to buy subscriptions. Costs do.  
+![Summary of question 05 and 06.]({{ "/assets/survey_01/results_05_06.png" | absolute_url }} "results for question 05 and 06")  
+
+![Screenshot: How often do you pay for access to a specific piece of online media?]({{ "/assets/survey_01/question_10.png" | absolute_url }} "question 10")  
+![Screenshot: What do you think is a reasonable price to read a single news article from your local paper?]({{ "/assets/survey_01/question_11.png" | absolute_url }} "question 11")  
+![Screenshot: In your current financial situation, about how often do you think you would be comfortable paying that much for news articles and journalistic blog posts?]({{ "/assets/survey_01/question_12.png" | absolute_url }} "question 12")  
+![Screenshot: Do you make any voluntary financial contributions to the creators or publishers of the stuff you read, watch, and listen to online?]({{ "/assets/survey_01/question_13.png" | absolute_url }} "question 13")  
+![Screenshot: About how much each month?]({{ "/assets/survey_01/question_14.png" | absolute_url }} "question 14")  
+
+![Summary of question 10.]({{ "/assets/survey_01/results_10.png" | absolute_url }} "results for question 10")  
+![Summary of question 11.]({{ "/assets/survey_01/results_11.png" | absolute_url }} "results for question 11")  
+![Summary of question 12.]({{ "/assets/survey_01/results_12.png" | absolute_url }} "results for question 12")  
+![Summary of question 13.]({{ "/assets/survey_01/results_13.png" | absolute_url }} "results for question 13")  
+![Summary of question 14.]({{ "/assets/survey_01/results_14.png" | absolute_url }} "results for question 14")  
