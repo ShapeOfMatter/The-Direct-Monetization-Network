@@ -8,7 +8,7 @@
 
   header, #post-content {
     @media #{$desktop} {
-      max-width: 800px;
+      max-width: 1200px;
     }
 
     @media #{$mobile} {
@@ -22,5 +22,19 @@
 
   #post-content{
     padding: 2em;
+    background: transparentize(white, 0.4);
+
+    img {
+      background: white;
+      padding: 1em;
+      border: 1px solid black;
+      margin: 1em auto;
+      max-width: 75%;
+      display: block;
+    }
+
+    img + br {
+      display: none;
+    }
   }
 }
