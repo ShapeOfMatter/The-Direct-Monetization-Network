@@ -2,7 +2,8 @@
 title: Our first consumer survey
 date: 2019-08-15 00:00:00 Z
 permalink: "/survey_results_01.html"
-description: What did we learn when we asked consumers how they use the internet and what they want.
+description: What did we learn when we asked consumers how they use the internet and
+  what they want.
 layout: post
 ---
 
