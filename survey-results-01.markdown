@@ -66,14 +66,15 @@ We asked what motivated people to sign up for subscriptions, and what they didn'
 Ads don't seem to weigh heavily of peoples decisions to buy subscriptions. Costs do.  
 ![Summary of question 05 and 06.]({{ "/assets/survey_01/results_05_06.png" | absolute_url }} "results for question 05 and 06")  
 
+The respondents confirmed our assumption that people _are willing_ to donate money to writers and artists.  
+![Screenshot: Do you make any voluntary financial contributions to the creators or publishers of the stuff you read, watch, and listen to online?]({{ "/assets/survey_01/question_13.png" | absolute_url }} "question 13")  
+![Screenshot: About how much each month?]({{ "/assets/survey_01/question_14.png" | absolute_url }} "question 14")  
+![Summary of question 13 and 14.]({{ "/assets/survey_01/results_13_14.png" | absolute_url }} "results for question 13 and 14")  
+
+We were particularly curious to learn how people felt about making one-off purchases, 
+which was the most popular model in question 1.  
 ![Screenshot: How often do you pay for access to a specific piece of online media?]({{ "/assets/survey_01/question_10.png" | absolute_url }} "question 10")  
 ![Screenshot: What do you think is a reasonable price to read a single news article from your local paper?]({{ "/assets/survey_01/question_11.png" | absolute_url }} "question 11")  
 ![Screenshot: In your current financial situation, about how often do you think you would be comfortable paying that much for news articles and journalistic blog posts?]({{ "/assets/survey_01/question_12.png" | absolute_url }} "question 12")  
-![Screenshot: Do you make any voluntary financial contributions to the creators or publishers of the stuff you read, watch, and listen to online?]({{ "/assets/survey_01/question_13.png" | absolute_url }} "question 13")  
-![Screenshot: About how much each month?]({{ "/assets/survey_01/question_14.png" | absolute_url }} "question 14")  
-
 ![Summary of question 10.]({{ "/assets/survey_01/results_10.png" | absolute_url }} "results for question 10")  
-![Summary of question 11.]({{ "/assets/survey_01/results_11.png" | absolute_url }} "results for question 11")  
-![Summary of question 12.]({{ "/assets/survey_01/results_12.png" | absolute_url }} "results for question 12")  
-![Summary of question 13.]({{ "/assets/survey_01/results_13.png" | absolute_url }} "results for question 13")  
-![Summary of question 14.]({{ "/assets/survey_01/results_14.png" | absolute_url }} "results for question 14")  
+![Summary of question 11 and 12.]({{ "/assets/survey_01/results_11_12.png" | absolute_url }} "results for question 11 and 12")  
