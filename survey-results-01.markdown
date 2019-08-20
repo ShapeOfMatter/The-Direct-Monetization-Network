@@ -25,7 +25,7 @@ _suggests_ the prevalence of certain sentiments.
 
 ## Do people care if the internet is lucrative?
 
-The last questions we presented asked people how important it was that different parties get paid for their work. In
+The last questions in the survey asked people how important it was that different parties get paid for their work. In
 general people are concerned with the livelihood of journalists, writers, etc, but not with the livelihood of
 publishers and aggregators.  
 ![Screenshot: Is it important for consumers to pay authors, artists, and creators for their work?]({{ "/assets/survey_01/question_15.png" | absolute_url }} "question 15")  
@@ -52,7 +52,7 @@ The most popular option was à la carte purchases, which is not a model supporte
 
 ## How well do people like the subscription model?
 
-Monthly subscriptions seem less popular among consumers than among publishers. 
+Monthly subscriptions seem less popular among consumers than they are among publishers. 
 Several of our questions related to subscriptions people actually have.  
 ![Screenshot: With how many different websites do you have a paid subscription in order to access that site's content?]({{ "/assets/survey_01/question_02.png" | absolute_url }} "question 02")  
 ![Screenshot: About how much do you spend on such subscriptions each month?]({{ "/assets/survey_01/question_03.png" | absolute_url }} "question 03")  
@@ -67,10 +67,14 @@ We asked what motivated people to sign up for subscriptions, and what they didn'
 Ads don't seem to weigh heavily of peoples decisions to buy subscriptions. Costs do.  
 ![Summary of question 05 and 06.]({{ "/assets/survey_01/results_05_06.png" | absolute_url }} "results for question 05 and 06")  
 
+## Do people contribute to voluntary crowdfunding?
+
 The respondents confirmed our assumption that people _are willing_ to donate money to writers and artists.  
 ![Screenshot: Do you make any voluntary financial contributions to the creators or publishers of the stuff you read, watch, and listen to online?]({{ "/assets/survey_01/question_13.png" | absolute_url }} "question 13")  
 ![Screenshot: About how much each month?]({{ "/assets/survey_01/question_14.png" | absolute_url }} "question 14")  
 ![Summary of question 13 and 14.]({{ "/assets/survey_01/results_13_14.png" | absolute_url }} "results for question 13 and 14")  
+
+## Do people make singleton purchases?
 
 We were particularly curious to learn how people felt about making one-off purchases, 
 which was the most popular model in question 1.  
